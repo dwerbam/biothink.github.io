@@ -1,4 +1,4 @@
-baseurl = "http://www.biothink.io/"
+baseurl = "http://biothink.io/"
 languageCode = "en-us"
 title = "biothink.io"
 theme = "creative"
@@ -28,7 +28,7 @@ theme = "creative"
 
 	# Navigation
 	[params.navigation]
-		brand = "www.biothink.io"
+		brand = "biothink.io"
 
 		[params.navigation.links]
 			about     = "About"
