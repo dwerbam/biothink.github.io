@@ -1,6 +1,6 @@
-baseurl = "http://biothink.nl/"
+baseurl = "http://biothink.io/"
 languageCode = "en-us"
-title = "biothink.nl"
+title = "biothink.io"
 theme = "creative"
 
 [params]
@@ -28,7 +28,7 @@ theme = "creative"
 
 	# Navigation
 	[params.navigation]
-		brand = "biothink.nl"
+		brand = "biothink.io"
 
 		[params.navigation.links]
 			about     = "About"
@@ -97,4 +97,4 @@ theme = "creative"
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
 		phone = "444-4444"
-		email = "hello@biothink.nl"
+		email = "hello@biothink.io"
